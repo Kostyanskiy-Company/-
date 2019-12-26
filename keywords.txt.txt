@@ -1,0 +1,12 @@
+LPH8731 KEYWORD1
+
+SendLcd KEYWORD1
+
+LcdInitt KEYWORD2
+
+SendImage KEYWORD2
+
+LcdPixel KEYWORD2
+
+SetArea KEYWORD2
+
